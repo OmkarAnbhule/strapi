@@ -7,7 +7,7 @@ A production-ready Strapi 5 base project template with Docker support. Fork this
 ### Option 1: Fork and Clone
 
 1. **Fork this repository** by clicking the "Fork" button at the top right
-2. **Clone your fork:**
+2. **Clone your fork:** 
    ```bash
    git clone https://github.com/YOUR_USERNAME/strapi-base-project.git
    cd strapi-base-project
