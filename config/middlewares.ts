@@ -1,4 +1,8 @@
 export default [
+  {
+    resolve: './src/middlewares/health',
+    config: {},
+  },
   'strapi::logger',
   'strapi::errors',
   'strapi::security',
