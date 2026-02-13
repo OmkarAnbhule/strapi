@@ -33,5 +33,6 @@ export default {
   },
   bootstrap(app: StrapiApp) {
     console.log(app);
+    throw new Error('Dummy error for testing');
   },
 };
